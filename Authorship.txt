@@ -1,0 +1,6 @@
+SP-Depo version 0.9
+
+The authors of this software are
+
+1) Arya Shahdi
+2) Ekarit Panacharoensawad
